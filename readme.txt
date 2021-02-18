@@ -1,0 +1,1 @@
+# g++ 01_hello_SDL.cpp -IC:\sdl2\include\SDL2 -LC:\sdl2\lib -w -Wl,-subsystem,windows -lmingw32 -lSDL2main -lSDL2 -o 01_hello_SDL
